@@ -8,7 +8,7 @@ For more details, visit
 
 Start by
 
-> Download and extract zip application.
+> Download and extract zip application
 
 > Open Terminal
 
